@@ -249,38 +249,112 @@ body {
 }
 
 /* Step 73 */
-h1, h2 {
+h1,
+h2 {
     font-family: Impact, serif;
-  }
-  
-  .item p {
+}
+
+.item p {
     display: inline-block;
-    margin-top:5px;
-    margin-bottom:5px;
-  }
-  
-  .flavor, .dessert {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flavor,
+.dessert {
     text-align: left;
     width: 75%;
-  }
-  
-  .price {
+}
+
+.price {
     text-align: right;
     width: 25%
-  }
+}
 
 /* Step 74 */
 .item p {
     display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size:18px;
-  }
+    font-size: 18px;
+}
 
 /* Step 75 */
-.bottom-line{
-    margin-top:25px;
-  }
+.bottom-line {
+    margin-top: 25px;
+}
 
-  
-Step Step
+
+/* Step 77 */
+/* FOOTER */
+
+/* Step 78 */
+footer {
+    font-size: 14px;
+}
+
+/* Step 79 */
+a {
+    color: black;
+}
+
+/* Step 80 */
+a:visited {
+    color: grey;
+}
+
+/* Step 81 */
+a:hover {
+    color: brown;
+}
+
+/* Step 82 */
+a:active {
+    color: white;
+}
+
+/* Step 83 */
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
+
+/* Step 84 */
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+/* Step 85 */
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+/* Step 86 */
+.address {
+    margin-bottom: 5px;
+}
+
+/* Step 89 */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Step 91 */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}

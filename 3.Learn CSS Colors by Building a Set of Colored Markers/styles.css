@@ -299,24 +299,54 @@ h1 {
   background: #007F00;
 }
 
-Setp
+/* Setp 61 */
+.green {
+  background: linear-gradient(180deg,#55680d);
+}
 
-Setp
+/* Setp 62 */
+.green {
+  background: linear-gradient(180deg, #55680D, #71F53E);
+}
 
-Setp
+/* Setp 63 */
+.green {
+  background: linear-gradient(180deg, #55680D, #71F53E,#116C31);
+}
 
-Setp
+/* Setp 64 */
+.red {
+  background: linear-gradient(180deg, rgb(122, 74, 14) , rgb(245, 62, 113) , rgb(162, 27, 27) );
+}
 
-Setp
+/* Setp 65 */
+.red {
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+}
 
-Setp
+.green {
+  background: linear-gradient(#55680D, #71F53E, #116C31);
+}
 
-Setp
+/* Setp 66 */
+.blue {
+  background: hsl(240, 100%, 50%);
+}
 
-Setp
+/* Setp 67 */
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%));
+}
 
-Setp
+/* Setp 68 */
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%,60%));
+}
 
+/* Setp 69 */
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%),hsl(240,56%,42%));
+}
 Setp
 
 Setp

@@ -185,6 +185,134 @@ h1 {
   text-align: center;
 }
 
+/* Setp 42 */
+.red {
+  background-color: rgb(0, 0, 0);
+}
+
+.two {
+  background-color: rgb(0, 0, 0);
+}
+
+.three {
+  background-color: rgb(0, 0, 0);
+}
+
+/* Setp 43 */
+.red {
+  background-color: rgb(255, 0, 0);
+}
+
+.two {
+  background-color: rgb(0, 0, 0);
+}
+
+.three {
+  background-color: rgb(0, 0, 0);
+}
+
+/* Setp 45 */
+.red {
+  background-color: rgb(255, 0, 0);
+}
+
+.green {
+  background-color: rgb(0, 0, 0);
+}
+
+.blue {
+  background-color: rgb(0, 0, 0);
+}
+
+/* Setp 46 */
+.green {
+  background-color: #00ff00;
+}
+
+/* Setp 47 */
+.green {
+  background-color: #007F00;
+}
+
+/* Setp 48 */
+.blue {
+  background-color: hsl(240,100%,50%);
+}
+
+/* Setp 49 */
+.red {
+  background: rgb(255, 0, 0);
+}
+
+/* Setp 50 */
+.red {
+  background: linear-gradient(90deg);
+}
+
+/* Setp 51 */
+.red {
+  background: linear-gradient(90deg, rgb(255,0,0));
+}
+
+/* Setp 52 */
+.red {
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0,255,0));
+}
+
+/* Setp 53 */
+.red {
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0),rgb(0,0,255));
+}
+
+/* Setp 54 */
+.red {
+  background: linear-gradient(90deg, rgb(255, 0, 0) 75%, rgb(0, 255, 0), rgb(0, 0, 255));
+}
+
+/* Setp 55 */
+.red {
+  background: linear-gradient(180deg, rgb(255, 0, 0) 75%, rgb(0, 255, 0), rgb(0, 0, 255));
+}
+
+/* Setp 56 */
+.red {
+  background: linear-gradient(180deg, rgb(255, 0, 0) 0%, rgb(0, 255, 0) 50%, rgb(0, 0, 255)100%);
+}
+
+/* Setp 57 */
+.red {
+  background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(0, 255, 0) 50%, rgb(0, 0, 255) 100%);
+}
+
+/* Setp 58 */
+.red {
+  background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(0, 0, 255) 100%);
+}
+
+/* Setp 59 */
+.red {
+  background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
+}
+
+/* Setp 60 */
+.green {
+  background: #007F00;
+}
+
+Setp
+
+Setp
+
+Setp
+
+Setp
+
+Setp
+
+Setp
+
+Setp
+
 Setp
 
 Setp

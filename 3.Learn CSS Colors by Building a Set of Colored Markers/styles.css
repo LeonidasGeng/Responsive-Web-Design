@@ -1,82 +1,82 @@
 /* Step 8 */
-h1{
-    text-align:center;
-  }
+h1 {
+  text-align: center;
+}
 
 /* Step 11 */
-.marker{
-    background-color:red;
-  }
+.marker {
+  background-color: red;
+}
 
 /* Step 12 */
 .marker {
-    background-color: red;
-    height:25px;
-    width:200px;
-  }
+  background-color: red;
+  height: 25px;
+  width: 200px;
+}
 
 /* Step 13 */
 .marker {
-    width: 200px;
-    height: 25px;
-    background-color: red;
-    margin:auto;
-  }
+  width: 200px;
+  height: 25px;
+  background-color: red;
+  margin: auto;
+}
 
 /* Step 15 */
 .marker {
-    width: 200px;
-    height: 25px;
-    background-color: red;
-    margin: 10px auto;
-    
-  }
+  width: 200px;
+  height: 25px;
+  background-color: red;
+  margin: 10px auto;
+
+}
 
 /* Step 17 */
 .marker {
-    width: 200px;
-    height: 25px;
-    margin: 10px auto;
-  }
+  width: 200px;
+  height: 25px;
+  margin: 10px auto;
+}
 
 /* Step 18 */
-.one{
-    background-color:red;
-  }
+.one {
+  background-color: red;
+}
 
 /* Step 20 */
-.two{
-    background-color:green;
-  }
-  
-  .three{
-      background-color:blue;
-  }
+.two {
+  background-color: green;
+}
+
+.three {
+  background-color: blue;
+}
 
 /* Step 21 */
-.container{
-    background-color:rgb(0,0,0);
-  }
+.container {
+  background-color: rgb(0, 0, 0);
+}
 
 /* Step 22 */
 .one {
-    background-color: rgb(255,0,0);
-  }
+  background-color: rgb(255, 0, 0);
+}
 
 /* Step 23 */
 .two {
-    background-color: rgb(0,255,0);
-  }
-  
-  .three {
-    background-color: rgb(0,0,255);
-  }
+  background-color: rgb(0, 255, 0);
+}
+
+.three {
+  background-color: rgb(0, 0, 255);
+}
 
 /* Step 24 */
 .two {
-    background-color: rgb(0, 127, 0);
-  }
-     
+  background-color: rgb(0, 127, 0);
+}
+
 /* Step 25 */
 .container {
   background-color: rgb(0, 0, 0);
@@ -163,7 +163,7 @@ h1{
 /* Setp 37 */
 h1 {
   text-align: center;
-  background-color:rgb(0, 255, 255);
+  background-color: rgb(0, 255, 255);
 }
 
 /* Setp 38 */
@@ -236,7 +236,7 @@ h1 {
 
 /* Setp 48 */
 .blue {
-  background-color: hsl(240,100%,50%);
+  background-color: hsl(240, 100%, 50%);
 }
 
 /* Setp 49 */
@@ -251,17 +251,17 @@ h1 {
 
 /* Setp 51 */
 .red {
-  background: linear-gradient(90deg, rgb(255,0,0));
+  background: linear-gradient(90deg, rgb(255, 0, 0));
 }
 
 /* Setp 52 */
 .red {
-  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0,255,0));
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0));
 }
 
 /* Setp 53 */
 .red {
-  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0),rgb(0,0,255));
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0, 0, 255));
 }
 
 /* Setp 54 */
@@ -301,7 +301,7 @@ h1 {
 
 /* Setp 61 */
 .green {
-  background: linear-gradient(180deg,#55680d);
+  background: linear-gradient(180deg, #55680d);
 }
 
 /* Setp 62 */
@@ -311,12 +311,12 @@ h1 {
 
 /* Setp 63 */
 .green {
-  background: linear-gradient(180deg, #55680D, #71F53E,#116C31);
+  background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
 }
 
 /* Setp 64 */
 .red {
-  background: linear-gradient(180deg, rgb(122, 74, 14) , rgb(245, 62, 113) , rgb(162, 27, 27) );
+  background: linear-gradient(180deg, rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
 /* Setp 65 */
@@ -340,40 +340,166 @@ h1 {
 
 /* Setp 68 */
 .blue {
-  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%,60%));
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%));
 }
 
 /* Setp 69 */
 .blue {
-  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%),hsl(240,56%,42%));
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
 }
-Setp
 
-Setp
+/* Setp 71 */
+.sleeve {
+  width: 110px;
+  height: 25px;
+}
 
-Setp
+/* Setp 72 */
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: white;
+}
 
-Setp
+/* Setp 73 */
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: white;
+  opacity: 0.5;
+}
 
-Setp
+/* Setp 74 */
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: white;
+}
 
-Setp
+/* Setp 75 */
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 50%);
+}
 
-Setp
+/* Setp 77 */
+.cap {
+  width: 60px;
+  height: 25px;
+}
 
-Setp
+/* Setp 78 */
+.cap,.sleeve{
+  display:inline-block;
+}
 
-Setp
+ /* Setp 79 */
+ .sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left-width:10px;
+}
 
-Setp
+ /* Setp 80 */
+ .sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left-width: 10px;
+  border-left-style: solid;
+}
 
-Setp
+ /* Setp 81 */
+ .sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left-width: 10px;
+  border-left-style: solid;
+  border-left-color:black;
+}
 
-Setp
+ /* Setp 82 */
+ .sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left: 10px solid black;
+}
 
-Setp
+ /* Setp 83 */
+ .sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left: 10px double black;
+}
 
-Setp
+ /* Setp 84 */
+ .sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left: 10px double rgba(0,0,0,0.75);
+}
 
-Setp
+ /* Setp 86 */
+ .red {
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+  box-shadow: 5px 5px red;
+}
 
+ /* Setp 87 */
+ .red {
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+  box-shadow: -5px -5px red;
+}
+
+ /* Step 88 */
+ .green {
+  background: linear-gradient(#55680D, #71F53E, #116C31);
+  box-shadow:5px 5px 5px green;
+}
+
+/* Step 89 */
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+  box-shadow:0 0 0 5px blue;
+}
+
+/* Step 90 */
+.red {
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+  box-shadow: 0 0 20px 0 red;
+}
+
+/* Step 91 */
+.red {
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+  box-shadow: 0 0 20px 0 rgba(83,14,14,0.8);
+}
+
+/* Step 92 */
+.green {
+  background: linear-gradient(#55680D, #71F53E, #116C31);
+  box-shadow: 0 0 20px 0 green;
+}
+
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+  box-shadow: 0 0 20px 0 blue;
+}
+
+/* Step 93 */
+.green {
+  background: linear-gradient(#55680D, #71F53E, #116C31);
+  box-shadow: 0 0 20px 0 #3b7e20cc;
+}
+
+/* Step 94 */
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+  box-shadow: 0 0 20px 0 hsla(223,59%,31%,0.8);
+}
